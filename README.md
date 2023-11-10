@@ -10,7 +10,6 @@ Este projeto implementa um sistema para o Hotel Califórnia, com funcionalidades
 * Java 8+
 * JUnit 5
 * Maven
-* Mockito
 ## Contribuidores
 * @ViniciusI4n
 * @marcosfragoso
